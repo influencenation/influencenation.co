@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/influencenation/influencenation.co/static/css/main.62f60395.css",
-    "main.js": "/influencenation/influencenation.co/static/js/main.70a782e2.js",
-    "static/media/IBMPlexSans-MediumItalic.ttf": "/influencenation/influencenation.co/static/media/IBMPlexSans-MediumItalic.b5d2aae060bd17a44e92.ttf",
-    "static/media/IBMPlexSans-BoldItalic.ttf": "/influencenation/influencenation.co/static/media/IBMPlexSans-BoldItalic.2154ceb10b0ff9a38ed6.ttf",
-    "static/media/IBMPlexSans-Italic.ttf": "/influencenation/influencenation.co/static/media/IBMPlexSans-Italic.3c841fd3d99ee585c6cd.ttf",
-    "static/media/IBMPlexSans-Medium.ttf": "/influencenation/influencenation.co/static/media/IBMPlexSans-Medium.e1777542474b207f1248.ttf",
-    "static/media/IBMPlexSans-Regular.ttf": "/influencenation/influencenation.co/static/media/IBMPlexSans-Regular.0519459d8ed646e0f90d.ttf",
-    "static/media/IBMPlexSans-Bold.ttf": "/influencenation/influencenation.co/static/media/IBMPlexSans-Bold.c6aebfe2ea10a16d4a22.ttf",
-    "static/media/twitter.svg": "/influencenation/influencenation.co/static/media/twitter.5214ad3cf7c05ed4edff0e69ce917cfc.svg",
-    "index.html": "/influencenation/influencenation.co/index.html",
-    "static/media/facebook.svg": "/influencenation/influencenation.co/static/media/facebook.6c340b9530b1ff951b5e04fcf437f021.svg",
-    "main.62f60395.css.map": "/influencenation/influencenation.co/static/css/main.62f60395.css.map",
-    "main.70a782e2.js.map": "/influencenation/influencenation.co/static/js/main.70a782e2.js.map"
+    "main.css": "/influencenation.co/static/css/main.44d8cf4a.css",
+    "main.js": "/influencenation.co/static/js/main.e0485ba0.js",
+    "static/media/IBMPlexSans-MediumItalic.ttf": "/influencenation.co/static/media/IBMPlexSans-MediumItalic.b5d2aae060bd17a44e92.ttf",
+    "static/media/IBMPlexSans-BoldItalic.ttf": "/influencenation.co/static/media/IBMPlexSans-BoldItalic.2154ceb10b0ff9a38ed6.ttf",
+    "static/media/IBMPlexSans-Italic.ttf": "/influencenation.co/static/media/IBMPlexSans-Italic.3c841fd3d99ee585c6cd.ttf",
+    "static/media/IBMPlexSans-Medium.ttf": "/influencenation.co/static/media/IBMPlexSans-Medium.e1777542474b207f1248.ttf",
+    "static/media/IBMPlexSans-Regular.ttf": "/influencenation.co/static/media/IBMPlexSans-Regular.0519459d8ed646e0f90d.ttf",
+    "static/media/IBMPlexSans-Bold.ttf": "/influencenation.co/static/media/IBMPlexSans-Bold.c6aebfe2ea10a16d4a22.ttf",
+    "static/media/twitter.svg": "/influencenation.co/static/media/twitter.5214ad3cf7c05ed4edff0e69ce917cfc.svg",
+    "index.html": "/influencenation.co/index.html",
+    "static/media/facebook.svg": "/influencenation.co/static/media/facebook.6c340b9530b1ff951b5e04fcf437f021.svg",
+    "main.44d8cf4a.css.map": "/influencenation.co/static/css/main.44d8cf4a.css.map",
+    "main.e0485ba0.js.map": "/influencenation.co/static/js/main.e0485ba0.js.map"
   },
   "entrypoints": [
-    "static/css/main.62f60395.css",
-    "static/js/main.70a782e2.js"
+    "static/css/main.44d8cf4a.css",
+    "static/js/main.e0485ba0.js"
   ]
 }
