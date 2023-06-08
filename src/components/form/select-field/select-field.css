@@ -1,0 +1,14 @@
+
+.select__option.select__option--is-selected {
+    background-color: rgba(105,108,255,.08) !important;
+    color: #696cff !important;
+}
+
+.select__option.select__option--is-focused {
+    background-color: rgba(67,89,113,.04);
+    color: #697a8d;
+}
+
+.is-invalid .select__control {
+    border-color: #ff3e1d;
+}
