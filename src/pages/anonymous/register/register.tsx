@@ -53,11 +53,11 @@ function Register() {
             <div className="app-brand mb-5">
               <div className="app-brand-link">
                 <span className="app-brand-logo demo"></span>
-                <span className="app-brand-text demo text-body fw-bolder">Sneat</span>
+                <span className="app-brand-text demo fw-bolder">InfluenceNation</span>
               </div>
             </div>
-            <h4 className="mb-2">Adventure starts here 🚀</h4>
-            <p className="mb-4">Make your app management easy and fun!</p>
+            <h4 className="mb-2">Get started with InfluenceNation 🚀</h4>
+            <p className="mb-4"> Create your account and start building valuable partnerships.</p>
 
             <Formik<RegisterFormValues>
               initialValues={{

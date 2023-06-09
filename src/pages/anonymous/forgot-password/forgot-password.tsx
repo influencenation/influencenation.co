@@ -49,8 +49,8 @@ function ForgotPassword() {
                 <span className="app-brand-text demo text-body fw-bolder">Sneat</span>
               </div>
             </div>
-            <h4 className="mb-2">Forgot Password? 🔒</h4>
-            <p className="mb-4">Enter your email and we'll send you instructions to reset your password</p>
+            <h4 className="mb-2">Forgot Your Password? 🔒</h4>
+            <p className="mb-4">Don't worry, we've got you covered. Enter your email address below, and we'll send you a link to reset your password.</p>
 
             <Formik<ForgotPasswordPayload>
               initialValues={{

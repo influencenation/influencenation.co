@@ -52,7 +52,7 @@ const EmailVerification = () => {
       <div className="container-xxl container-p-y">
         <div className="misc-wrapper">
           <h2 className="mb-2 mx-2">{title}</h2>
-          <p className="mb-4 mx-2">We're creating something awesome. Please subscribe to get notified when it's ready!</p>
+          <p className="mb-4 mx-2">Congratulations! Your InfluenceNation account has been successfully verified. You can now log in and start exploring a world of opportunities.</p>
           <Link to={verifyApi.loading ? '/login' : verifyApi.error ? '/register' : '/login'} className="btn btn-primary">
             {verifyApi.loading ? (
               <span className="spinner-border me-1" role="status" aria-hidden="true"></span>
@@ -71,8 +71,10 @@ const EmailVerification = () => {
   return (
     <div className="container-xxl container-p-y">
       <div className="misc-wrapper">
-        <h2 className="mb-2 mx-2">Congratulations {values?.name}</h2>
-        <p className="mb-4 mx-2">Check your email .... {values?.email} .... inbox....</p>
+        <h2 className="mb-2 mx-2">Account Created Successfully!</h2>
+        <p className="mb-4 mx-2">
+          Congratulations, {values?.name}! Your InfluenceNation account with the email "{values?.email}"" has been successfully created. To get started, please check your email inbox for a verification link.
+        </p>
         <div className="mt-3">
           <img src={ilustration} alt="page-misc-error-light" width="500" className="img-fluid" />
         </div>

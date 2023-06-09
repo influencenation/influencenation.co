@@ -37,11 +37,11 @@ const Login = () => {
             <div className="app-brand mb-5">
               <div className="app-brand-link">
                 <span className="app-brand-logo demo"></span>
-                <span className="app-brand-text demo text-body fw-bolder">Sneat</span>
+                <span className="app-brand-text demo text-body fw-bolder">InfluenceNation</span>
               </div>
             </div>
-            <h4 className="mb-2">Welcome to Sneat! 👋</h4>
-            <p className="mb-4">Please sign-in to your account and start the adventure</p>
+            <h4 className="mb-2">Sign in and power up your influence! 👋</h4>
+            <p className="mb-4">Access your InfluenceNation account and collaborate with top brands.</p>
             <Formik
               enableReinitialize
               initialValues={{
