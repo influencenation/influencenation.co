@@ -2,8 +2,8 @@ class InfluenceTracker {
   #localStorageLastViewedProduct = "@influencenation:last_viewed";
   #localStorageLastBuyedProduct = "@influencenation:last_buyed";
   #localStorageKey = "@influencenation";
-  #searchKey = "https://influencenation.co";
-  #url = "https://influencenation.co";
+  #searchKey = "https://www.influencenation.co";
+  #url = "https://api.influencenation.co";
   #paths = null;
   #accessToken = "";
   #observer = new PerformanceObserver(this.#observerlistener.bind(this));
