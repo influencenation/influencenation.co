@@ -2,6 +2,8 @@ import React from 'react';
 import { Route, Routes } from 'react-router-dom';
 
 import NotFound from '../common/not-found';
+import PrivacyPolicy from '../common/privacy-policy';
+import TermsAndCondition from '../common/terms-and-condition';
 import './authentication-wrapper.css';
 import EmailVerification from './email-verification';
 import ForgotPassword from './forgot-password/forgot-password';
@@ -18,6 +20,8 @@ const Anonymous: React.FC = () => {
       <Route path="/users/verification/:token?" element={<EmailVerification />} />
       <Route path="/forgot-password" element={<ForgotPassword />} />
       <Route path="/users/update-password/:code" element={<ResetPassword />} />
+      <Route path="/terms-and-condition" element={<TermsAndCondition />} />
+      <Route path="/privacy-policy" element={<PrivacyPolicy />} />
       {/*<Route path="*" element={<Navigate to="/" replace />} />*/}
       <Route path="*" element={<NotFound />} />
     </Routes>
